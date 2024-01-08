@@ -5,3 +5,4 @@
 - 🔎 Procurando aprender mais sobre desenvolvimento Mobile
 - 😄 Pronouns: ela/dela
 
+Github de trabalhos da faculdade: https://github.com/fany-code
